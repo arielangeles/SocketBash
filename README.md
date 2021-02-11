@@ -11,13 +11,11 @@ To execute on a linux terminal you need to do the following steps
 
 ## TCP socket connection that acts as an echo server
 
-To execute:
+To execute on terminal:
 
 1. (Same as previous)
 
-2. To run on terminal write:
-
-`$ ./echo_server.sh {$anyMessage} # message you want to echo`
+2. To run on terminal write: `$ ./echo_server.sh {$anyMessage} # message you want to echo`
 
 
 
