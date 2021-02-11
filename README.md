@@ -1,21 +1,21 @@
 # SocketBash
-Simple socket TCP socket connection on a bash/shell terminal that reads a webpage.
+## Simple socket TCP socket connection on a bash/shell terminal that reads a webpage.
 
 To execute on a linux terminal you need to do the following steps
 
-Open your terminal write:
+1. Open your terminal write:
 `$ chmod u+x socket.sh`
 
-And whenever you want to run it
+2. And whenever you want to run it:
 `$ ./socket.sh`
 
-TCP socket connection that acts as an echo server
+## TCP socket connection that acts as an echo server
 
 To execute:
 
-(Same as previous)
+1. (Same as previous)
 
-Open on terminal and write:
+2. To run on terminal write:
 
 `$ ./echo_server.sh {$anyMessage} # message you want to echo`
 
