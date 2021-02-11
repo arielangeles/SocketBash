@@ -1,5 +1,6 @@
 # SocketBash
 Simple socket TCP socket connection on a bash/shell terminal that reads a webpage.
+
 To execute on a linux terminal you need to do the following steps
 
 Open your terminal write:
