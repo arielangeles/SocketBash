@@ -15,7 +15,9 @@ To execute on terminal:
 
 1. (Same as previous)
 
-2. To run on terminal write: `$ ./echo_server.sh {$anyMessage} # message you want to echo`
+2. Install socat by entering the following commands in the terminal: `$ sudo apt update sudo apt install socat`
+
+3. To run on terminal write: `$ ./echo_server.sh {$anyMessage} # message you want to echo`
 
 
 
