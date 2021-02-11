@@ -13,6 +13,8 @@ TCP socket connection that acts as an echo server
 
 To execute:
 
+(Same as previous)
+
 Open on terminal and write:
 
 `$ ./echo_server.sh {$anyMessage} # message you want to echo`
