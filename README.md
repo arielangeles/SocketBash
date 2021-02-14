@@ -15,7 +15,7 @@ To execute on terminal:
 
 1. (Same as previous)
 
-2. Install socat by entering the following commands in the terminal: `$ sudo apt update sudo apt install socat`
+2. To open socket connection at localhost and specfied port: `$ nc -l $port`
 
 3. To run on terminal write: `$ ./echo_server.sh {$anyMessage} # message you want to echo`
 
